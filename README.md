@@ -95,4 +95,4 @@ Tempo Médio para Envio = AVERAGE('fPedidos'[Tempo para Envio])
 
 **Marcelo Napoloni**
 
-* **LinkedIn:** [Link para o seu perfil no LinkedIn]
+* **LinkedIn:** [https://www.linkedin.com/in/marcelo-napolioni-964a0261/]
